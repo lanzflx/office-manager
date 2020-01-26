@@ -1,0 +1,18 @@
+
+#title {
+    font-size: 50px;
+    border-radius: 50px;
+    margin: 50 auto;
+    color: rgba(51, 58, 47, 0.719);
+    background: linear-gradient(45deg,blue, lightblue, darkblue);
+    text-align: center;    
+}
+#menu {
+    background: rgb(211, 218, 205);
+    display: grid;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    height: 40px;
+    
+}
